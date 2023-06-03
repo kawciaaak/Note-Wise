@@ -13,23 +13,29 @@ Before proceeding with the installation, please make sure to install the OpenAI 
 ## Windows
 
 1. Clone the repository
+
 `git clone https://github.com/kawciaaak/Note-Wise.git`
 
 2. Change directory to the source folder
+
 `cd Note-Wise/src`
 
 3. Run the application
+
 `python NoteWise.py`
 
 ## Linux
 
 1. Clone the repository
+
 `git clone https://github.com/kawciaaak/Note-Wise.git`
 
 2. Change directory to the source folder
+
 `cd Note-Wise/src`
 
 3. Run the application
+
 `python3 NoteWise.py`
 
 On the first run, the application will prompt you to enter an API key.
