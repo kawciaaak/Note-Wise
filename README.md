@@ -38,7 +38,7 @@ Before proceeding with the installation, please make sure to install the OpenAI 
 
 `python3 NoteWise.py`
 
-On the first run, the application will prompt you to enter an API key.
+On the first run, the application will ask you to enter an API key.
 
 ## Usage
 
