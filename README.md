@@ -38,13 +38,13 @@ Before proceeding with the installation, please make sure to install the OpenAI 
 
 `python3 NoteWise.py`
 
-On the first run, the application will ask you to enter an API key.
+# On the first run, the application will ask you to enter an API key.
 
 ## Usage
 
 To use Note-Wise, follow these steps:
 
-1. Create a text file (`.txt`) containing your notes and place it in the main directory of the project.
+1. Create a text file (`.txt`) containing your text and place it in the main directory of the project.
 
 2. Run the application using the command described in the Installation section.
 
